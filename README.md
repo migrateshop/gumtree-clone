@@ -26,6 +26,8 @@ If you are looking to create your own classified marketplace business, selecting
 
 By focusing on these key considerations, you can build and launch a profitable online classified marketplace business with a Gumtree clone that attracts and retains users, fostering a vibrant and trustworthy community.
 
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“gumtreecloneapp.png" src="https://github.com/migrateshop/gumtree-clone/blob/main/images/gumtree-clone-migrateshop.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+
 ### Conclusion
 In conclusion, creating a successful online classifieds website requires a well-rounded approach that prioritizes user experience, functionality, and community engagement. Implementing a user-friendly interface, comprehensive listing options, advanced search capabilities, and community-building features can help you create a platform that resonates with users. 
 
